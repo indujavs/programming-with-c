@@ -17,11 +17,11 @@ This repository contains my daily C programming practice as I learn, explore, an
 
 ## Programs
 
-| Day | Programs | Status |
+| S.No | Programs | Status |
 |---|---|---|
-| Day 01 | Addition of Two Numbers | Completed |
-| Day 01 | Odd or Even | Completed |
-| Day 02 | Reverse the number | completed |
+| 01 | Addition of Two Numbers | Completed |
+| 02 | Odd or Even | Completed |
+| 03 | Reverse the number | completed |
 
 ## Coding Streak
 
