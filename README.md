@@ -23,6 +23,7 @@ This repository contains my daily C programming practice as I learn, explore, an
 | 02 | Odd or Even | Completed |
 | 03 | Reverse the number | completed |
 | 04 | Factorial using Recursion | completed |
+| 05 | Multiplication table | Completed |
 
 ## Coding Streak
 
