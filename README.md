@@ -17,13 +17,14 @@ This repository contains my daily C programming practice as I learn, explore, an
 
 ## Programs
 
-| S.No | Programs | Status |
-|---|---|---|
-| 01 | Addition of Two Numbers | Completed |
-| 02 | Odd or Even | Completed |
-| 03 | Reverse the number | completed |
-| 04 | Factorial using Recursion | completed |
-| 05 | Multiplication table | Completed |
+| S.No | Programs | 
+|---|---|
+| 01 | Addition of Two Numbers | 
+| 02 | Odd or Even | 
+| 03 | Reverse the number | 
+| 04 | Factorial using Recursion | 
+| 05 | Multiplication table | 
+| 06 | Addition using Pointer | 
 
 ## Coding Streak
 
