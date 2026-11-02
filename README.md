@@ -25,6 +25,7 @@ This repository contains my daily C programming practice as I learn, explore, an
 | 04 | Factorial using Recursion | 
 | 05 | Multiplication table | 
 | 06 | Addition using Pointer | 
+| 07 | Student Mark total and Average |
 
 ## Coding Streak
 
