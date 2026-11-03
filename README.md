@@ -27,6 +27,7 @@ This repository contains my daily C programming practice as I learn, explore, an
 | 06 | Addition using Pointer | 
 | 07 | Student Mark total and Average |
 | 08 | Area of Circle |
+| 09 | Employee Total Salary |
 
 ## Coding Streak
 
